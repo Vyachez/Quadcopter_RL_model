@@ -1,2 +1,2 @@
-# proj_udct_qcopt_ML_8.29.2018
+# Reinforcement_Learning_Quadcopter 
 Draft and Test mode: Training Copter to fly
